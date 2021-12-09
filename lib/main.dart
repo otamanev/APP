@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Startup Name GeneratorR',
       theme: ThemeData(
         appBarTheme: const AppBarTheme(
-          // backgroundColor: Colors.blueGrey,
+          backgroundColor: Colors.blueGrey,
           foregroundColor: Colors.black87,
         ),
       ),
